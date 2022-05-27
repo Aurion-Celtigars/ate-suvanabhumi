@@ -1,5 +1,6 @@
 ###ÄNSI
 9999999 = { name="Chandrawong" culture=thai religion="kammathana"
+used_for_random=no
 }
 
 3732043 = { name="Intharayothin" culture=thai }
