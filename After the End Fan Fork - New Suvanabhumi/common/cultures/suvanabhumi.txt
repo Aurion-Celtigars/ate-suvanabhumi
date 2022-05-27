@@ -1,0 +1,114 @@
+###ÄNSI
+suvanabhumi = {
+	graphical_cultures = { brownpacificgfx blackpacificgfx muslimgfx }
+	
+	thai = {
+		graphical_cultures = { brownpacificgfx }
+		unit_graphical_cultures = { chinesegfx muslimgfx }
+
+		color = { 0.16 0.26 0.53 }
+		
+		# Names from "New Pocket Hawaiian Dictionary"
+		male_names = {
+			Abhisit Adichai Adisak Adisorn Adun Akhom Amnart Ammarin Apirat Arthit Aroon Asnee
+			Banyat Bhurit Bun-Mee Bun-Rot 
+			Chaleo Charoen Chin Chirayu Chuan Chatri Chaiyaphon Chaiwat Chaisit Chaisak Chaimongkhon
+			Damri Damrongdet Danai Decha Dhanin 
+			Eakachai Eakalak Eakasit Eakawit Eakawit Eakarat
+			Kampon Kanokphon Kasem Keerati Kittisak Klahan Keeree Kon Kraisak Kriangkrai Kriangsak Krit Kukrit
+			Manit Mano Manu Mongkon Montri Mueangchai
+			Nakhonchai Narong Narongsak Narongdej Nattasit 
+			Pharya Phra Piyasvasti Pongpol Prasert Preecha Prem Pridi Prayuth Pradeep
+			Rama Raung-Rit Raung-Sak Rung-Rot
+			Sakchai Samak Seni Somboon Somchai Somkid Sompon Somsak Suchart Sunthorn Suriya Sussadi
+			Thaksin Thanong Thanaporn Thanakorn Thanet Thamma Thawisak Thongchai
+			Vachara Vidura Vichai Virote Viriya Vitaya Vorapot	
+		}
+		female_names = {
+			Amporn Anong Aree Achara Ambhom Anchali
+			Bang-Orn Banyen Bencha Benjamat Bua Bun-Ma
+			Chulabhorn Chaem-Choi Chailai Chalermwan Chanranya Charoenrasamee Chaveevan Chinda Chinamanee
+			Dao Dara Dusadi Duangduean Duanghathai Duangjai Dusita
+			Fa-Ying Fa-Sai
+			Intira Itsari
+			Kamon Kamonrat Kamonwan Kanokwan Kantima Kanyarat Kanchana Kanda Kanya Karuna Kulap Kunthida
+			Lawan Laddawan Laiat Laksami Latda
+			Malai Mali Mallika Maliwan Mani Mayuree Mekhala
+			Nakwan Namfon Namphueng Nanthita Napha Narirat Natcha Ngam-Chit 
+			Onanong On-Uma
+			Pailin Pakpao Panida Parichart Patra Paweena Pensri Pontip
+			Ratree Ramphai Rangsima Renu Rochana Rungthiwa 
+			Saowapha Sudarat Sukhon Sunan Sunata Suthida
+			Tanya Thatsani Thanyarat Thawinan Thidarat
+			Ubon Udom Umaphon Urairat Uraiwan Usa
+			Yada Yaowaman Yaowapha Yingluck Yindee Yiwa Yupha Yuphin Yuwarat
+		}
+
+		from_dynasty_prefix = "Na "
+		seafarer = yes
+		allow_looting = yes
+		disinherit_from_blinding = yes
+		
+		character_modifier = {
+			martial = 2
+		}
+		
+		used_for_random = no
+		
+		modifier = default_culture_modifier
+	}
+	
+	khmer = {
+		graphical_cultures = { brownpacificgfx }
+		#unit_graphical_cultures = { chinesegfx muslimgfx }
+		
+		dynasty_name_first = yes
+		
+		color = { 0.26 0.22 1 }
+		
+		male_names = {
+			Arun 
+			Ban Bourey Bun-Rong 
+			Chak Chakrya Chamroeun Chandarith Chankrisna Chanthay Chanveasna Chay 
+			Dara
+			Eng 
+			Ieu 
+			Indr
+			Jaya Jun-Chhoun
+			Kettiya Kiman Kiri Kosal Kristna 
+			Makara Meng Monivong Munney Muth 
+			Nath  Nghor Nheal Nhean Nhol Nim Nol 
+			Oum
+			Pheak Phim Phirun Pich Pol Pot Pou 
+			Rajendra Ranariddh Rangsey Ratta Rithisak Rithy Rongsey Rouet Ry 
+			Sakngea Samouth Samporn Samrin Sary Sathea Savoeun Sen Siden Silong Sim Sokhun Son Sophat Sopheara Sotharith Sovann Surya Sutshakan 
+			Thoeun Tioulang 
+			Uth 
+			Varin Veasna Visith 
+			Yaso Yem	
+		}
+		
+		female_names = {
+			Baen Bopha Boupha 
+			Canata Champei Chan Chanae Chanda Chandarith Channary Chantou Chantrea Chea Chhoum Chim
+			Dara 
+			Kannitha Kolab Kornika Kornthearrie Kosal Kunthea 
+			Lai Leakhana Lun-Ang
+			Maly Maryna Mliss Moum 
+			Nary Ngim Non
+			Penarene Penh Phiray Pisey 
+			Reachana Ren Ry 
+			Sarom Savy Seoun Sitha Socheat Sodavy Sokha Sokphy Sopea Sophea Sophal Sophear Sorn Sothea Sothol Sray Suon 
+			Terri Tery Teva Tevy Tewi Theary Thida Thirith Thoeung 
+			Vanna Vannak Vantha Veata Veng Kim Vuthy 
+			Yutheary
+		}
+		
+		from_dynasty_prefix = "no "
+
+		
+		used_for_random = no
+		
+		modifier = default_culture_modifier
+	}
+}
