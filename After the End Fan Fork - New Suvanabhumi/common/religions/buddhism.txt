@@ -159,7 +159,7 @@ buddhist = {
 		crusade_name = GREAT_HOLY_WAR
 		can_call_crusade = no
 		
-		peace_piety_gain = 2.0		
+		peace_piety_gain = 2.5		
 		priests_can_marry = no
 		allow_rivermovement = yes
 		female_temple_holders = yes
