@@ -1171,6 +1171,7 @@ culture =
 {
 	religion = {
 		"cetic"
+		"pure_land"
 	}
 
 	templates = { 

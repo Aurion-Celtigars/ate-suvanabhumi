@@ -131,4 +131,58 @@ buddhist = {
 		intermarry = gaian
 		intermarry = neognostic
 	}
+	pure_land = {
+		has_coa_on_barony_only = yes
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 101
+
+		color = { 1 0.6 0.1 }
+		
+		interface_skin = { buddhist_interface indian_interface muslim_interface }
+
+		high_god_name = GOD_THE_BUDDHA
+
+		god_names = {
+			GOD_THE_BUDDHA GOD_SIAM GOD_KING_SIAM
+		}
+
+		evil_god_names = {
+			THE_UNENLIGHTENED
+		}
+
+		character_modifier = {
+			stewardship = 1
+			martial = 1
+		}
+		crusade_name = GREAT_HOLY_WAR
+		can_call_crusade = no
+		
+		peace_piety_gain = 2.0		
+		priests_can_marry = no
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		raised_vassal_opinion_loss = no
+		
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		scripture_name = THE_TIPITAKA
+		priest_title = BHIKKHU
+		piety_name = KARMA
+
+		intermarry = cetic
+		intermarry = imamite
+		intermarry = shinto
+		intermarry = nousthreskeia
+		intermarry = neognostic
+		intermarry = aphite
+		intermarry = qingzhen
+		intermarry = imamite
+		intermarry = nazarene
+		intermarry = navegante
+	}	
 	}
